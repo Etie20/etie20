@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=ts,dart,java,flutter,spring,angular,vue,docker,git,githubactions,postgres,supabase" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etie20&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="etie20" /></p>

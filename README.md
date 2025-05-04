@@ -20,12 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/etie20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etie20" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fred-tchiadeu-67a97a24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fred-tchiadeu-67a97a24b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/etienne-junior-foyang-682ab8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etienne-junior-foyang-682ab8255" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,dart,c,cs,html,css,ts,nextjs,tailwind,django,spring,flutter,docker,figma,firebase,supabase,postgres,laravel,git,postman,linux,vercel,unreal,unity,arduino,webstorm,idea,rider,androidstudio,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=java,dart,ts,angular, vue, tailwind,spring,flutter,docker,figma,supabase,postgres,git,postman,linux,vercel,arduino,webstorm,idea, androidstudio" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etie20&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="etie20" /></p>
